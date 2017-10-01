@@ -6,7 +6,7 @@ var MARGIN_TOP = 30;
 
 var ballColor = ["#fc624d","#ffb174","#f7f39a","#a3de83","#28cc9e","#bdf1f6","#b7abfb","#ff847c","#2c2d34"];
 var balls =[];
-const endTime = new Date(2017, 8, 29, 23, 59, 59);
+const endTime = new Date(2017, 8, 29, 23, 59, 59);//根据日期更改
 // 计时小工具
 // var endTime = new Date();
 // endTime.setTime(endTime.getTime() + 3600 * 1000);
